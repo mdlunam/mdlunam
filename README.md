@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=+Hola,+soy+Marcela+Luna;😻+Fan+de+los+gatos+y+los+perros;📊+Transformo+datos+en+decisiones+inteligentes;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
-![Perfil](./perfil2.png)
+<p align="center">
+  <img src="./perfil2.png" alt="Perfil" width="300" style="border: 2px solid #ffc0cb; border-radius: 12px; box-shadow: 0 4px 8px rgba(255, 182, 193, 0.5);" />
+</p>
 
 ---
 
