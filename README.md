@@ -67,6 +67,10 @@
 
 </div>
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdlunam&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+</div>
+
 <div align="center">  
   <h3>¡Gracias por visitar mi perfil! 🌟 </h3>
 </div>
