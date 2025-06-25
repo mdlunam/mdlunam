@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=+Hola,+soy+Marcela+Luna; 😻+🐾+Fan+de+los+Michus+y+los+Perritos;📊+Transformo+datos+en+decisiones " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=+Hola,+soy+Marcela+Luna;😻+Fan+de+los+gatos+y+los+perros;📊+Transformo+datos+en+decisiones+inteligentes;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
 ![Perfil](./perfil.png)
